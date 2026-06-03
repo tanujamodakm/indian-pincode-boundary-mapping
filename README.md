@@ -20,6 +20,7 @@ The notebook enables users to explore postal regions, visualize PIN code coverag
 ## Required Files
 
 Download the following files before running the notebook.
+
 Note: The notebook is intended to be executed in Google Colab or Jupyter Notebook where user input for state and district selection is supported.
 
 ### 1. INDIAN_PINCODE_BOUNDARY.geojson
