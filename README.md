@@ -8,6 +8,24 @@ This project visualizes Indian PIN code boundaries using geospatial data and Pyt
 
 The notebook enables users to explore postal regions, visualize PIN code coverage, and export structured datasets for further study.
 
+## Sample Outputs
+
+### Maharashtra State Pincode Map
+
+![Maharashtra Map](images/STATE_MAHARASHTRA.png)
+
+### Mumbai Suburban District Pincode Map
+
+![Mumbai Suburban Map](images/DISTRICT_MUMBAI_SUBURBAN.png)
+
+### Available States
+
+![Available States](images/AVAILABLE_STATE.png)
+
+## Motivation
+
+Indian PIN codes are widely used for location identification, but detailed boundary visualizations are not easily accessible. This project combines PIN code boundary polygons with administrative and coordinate data to create state-wise and district-wise geospatial maps for analysis, research, and educational purposes.
+
 ## Features
 
 * State-wise PIN code boundary visualization
@@ -75,20 +93,6 @@ This project can support:
 * Public health and accessibility research
 * Location-based data science projects
 * Administrative and postal region analysis
-
-## Sample Outputs
-
-### Maharashtra State Pincode Map
-
-![Maharashtra Map](images/STATE_MAHARASHTRA.png)
-
-### Mumbai Suburban District Pincode Map
-
-![Mumbai Suburban Map](images/DISTRICT_MUMBAI_SUBURBAN.png)
-
-### Available States
-
-![Available States](images/AVAILABLE_STATE.png)
 
 ## Author
 
