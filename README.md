@@ -97,4 +97,3 @@ This project can support:
 ## Author
 
 **Tanuja Modak**
-Data Science Undergraduate, UMIT
